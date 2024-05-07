@@ -13,6 +13,8 @@ A mineflayer bot which acts as an assistant to all your minecraft queries powere
 
 
 2. The assistant to answer all your minecraft queries. Access it by prompting your question to the bot by either using `/msg` or /`tell`
+3. Anti-AFK to prevent the bot being kicked for afk reasons.
+4. Reconnect feature is implemented incase the bot gets disconnected/kicked.
 
 
 # how to use?
